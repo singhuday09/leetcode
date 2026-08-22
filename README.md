@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/singhuday09/leetcode/tree/master/0060-permutation-sequence) |
+| [1688-count-of-matches-in-tournament](https://github.com/singhuday09/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 ## Recursion
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/singhuday09/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Simulation
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/singhuday09/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
