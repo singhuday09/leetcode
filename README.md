@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/singhuday09/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0066-plus-one](https://github.com/singhuday09/leetcode/tree/master/0066-plus-one) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/singhuday09/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/singhuday09/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/singhuday09/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/singhuday09/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/singhuday09/leetcode/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/singhuday09/leetcode/tree/master/0066-plus-one) |
 | [1688-count-of-matches-in-tournament](https://github.com/singhuday09/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1922-count-good-numbers](https://github.com/singhuday09/leetcode/tree/master/1922-count-good-numbers) |
 ## Recursion
