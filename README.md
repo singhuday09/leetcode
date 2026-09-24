@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/singhuday09/leetcode/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/singhuday09/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/singhuday09/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/singhuday09/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/singhuday09/leetcode/tree/master/0066-plus-one) |
 | [1688-count-of-matches-in-tournament](https://github.com/singhuday09/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1922-count-good-numbers](https://github.com/singhuday09/leetcode/tree/master/1922-count-good-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/singhuday09/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
 | ------- |
