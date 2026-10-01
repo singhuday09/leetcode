@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/singhuday09/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/singhuday09/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/singhuday09/leetcode/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/singhuday09/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/singhuday09/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/singhuday09/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/singhuday09/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhuday09/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0721-accounts-merge](https://github.com/singhuday09/leetcode/tree/master/0721-accounts-merge) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/singhuday09/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/singhuday09/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## String
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhuday09/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0516-longest-palindromic-subsequence](https://github.com/singhuday09/leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0721-accounts-merge](https://github.com/singhuday09/leetcode/tree/master/0721-accounts-merge) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/singhuday09/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/singhuday09/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/singhuday09/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/singhuday09/leetcode/tree/master/0721-accounts-merge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/singhuday09/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/singhuday09/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 ## Heap (Priority Queue)
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/singhuday09/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/singhuday09/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/singhuday09/leetcode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/singhuday09/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/singhuday09/leetcode/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/singhuday09/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/singhuday09/leetcode/tree/master/0841-keys-and-rooms) |
@@ -108,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/singhuday09/leetcode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/singhuday09/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/singhuday09/leetcode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/singhuday09/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/singhuday09/leetcode/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/singhuday09/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/singhuday09/leetcode/tree/master/0841-keys-and-rooms) |
@@ -121,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/singhuday09/leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/singhuday09/leetcode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/singhuday09/leetcode/tree/master/0721-accounts-merge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/singhuday09/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/singhuday09/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/singhuday09/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
