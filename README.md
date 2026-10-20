@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/singhuday09/leetcode/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/singhuday09/leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/singhuday09/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/singhuday09/leetcode/tree/master/0210-course-schedule-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/singhuday09/leetcode/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/singhuday09/leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/singhuday09/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/singhuday09/leetcode/tree/master/0210-course-schedule-ii) |
@@ -238,4 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/singhuday09/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/singhuday09/leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/singhuday09/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
