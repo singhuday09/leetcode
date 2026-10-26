@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhuday09/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0044-wildcard-matching](https://github.com/singhuday09/leetcode/tree/master/0044-wildcard-matching) |
 | [0516-longest-palindromic-subsequence](https://github.com/singhuday09/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/singhuday09/leetcode/tree/master/0721-accounts-merge) |
 | [0856-score-of-parentheses](https://github.com/singhuday09/leetcode/tree/master/0856-score-of-parentheses) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/singhuday09/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/singhuday09/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/singhuday09/leetcode/tree/master/0060-permutation-sequence) |
 | [1922-count-good-numbers](https://github.com/singhuday09/leetcode/tree/master/1922-count-good-numbers) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/singhuday09/leetcode/tree/master/0044-wildcard-matching) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/singhuday09/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 ## Counting
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/singhuday09/leetcode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/singhuday09/leetcode/tree/master/0062-unique-paths) |
 | [0516-longest-palindromic-subsequence](https://github.com/singhuday09/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/singhuday09/leetcode/tree/master/0518-coin-change-ii) |
